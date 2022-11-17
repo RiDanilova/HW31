@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "lesson-031"
+version = "0.1.0"
+description = "HomeWork #31"
+authors = ["Enzo1987Pavel"]
+readme = "README.md"
+packages = [{include = "lesson_031"}]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
